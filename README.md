@@ -1,2 +1,2 @@
 # Core_Java_Programs
-programs to practice concepts like basic core java concepts, collection framework, file io etc.
+programs to practice concepts like basics of core java, data structures using java, collection framework, file io etc.
